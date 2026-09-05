@@ -1,44 +1,28 @@
 ﻿# Arbijuie
 
-Arbijuie builds infrastructure for systematic funding-rate arbitrage.
+Infrastructure for systematic funding-rate arbitrage.
 
-## Public Repository
+## Public Now
 
-The current public repository is:
+- [frontend](https://github.com/arbijuie/frontend) - The public product surface for operators, monitoring, and workflow visibility.
 
-- [frontend](https://github.com/arbijuie/frontend) - Operator-facing product surface, interface architecture, and UX layer.
+## What We Optimize
 
-Our core execution and research repositories remain private while we complete reliability and risk hardening for broader publication.
+- Signal quality over noise
+- Risk controls before scale
+- Release discipline over hype
 
-## Why We Exist
+## Why It Matters
 
-Funding opportunities are often visible but hard to operate safely at scale. We focus on turning fragmented market signals into operator-ready decisions with disciplined risk controls and transparent workflows.
+Markets expose opportunity, but execution quality decides outcomes. We design for reliability, controllability, and measurable operational behavior under real conditions.
 
-## What We Are Building
+## Build Stance
 
-- Real-time visibility into cross-venue funding opportunities
-- Risk-first execution guardrails and operational controls
-- Release discipline that supports predictable, audit-friendly iteration
+- Private core until hardening is complete
+- Deliberate public rollout by release stage
+- Clear documentation and audit-friendly changes
 
-## For Investors
+## Collaboration
 
-We are building toward a durable execution layer where risk controls, operational rigor, and release quality are treated as first-class product features.
-
-## For Partners and Integrators
-
-We are open to conversations around data, routing, and workflow integrations tied to the public frontend experience.
-
-## For Engineers
-
-If you care about resilient market systems, observability, and operational product quality, we welcome thoughtful collaboration discussions.
-
-## Current Priorities
-
-- Reliability under real runtime conditions
-- Risk control hardening before wider code publication
-- Expanding public surfaces in deliberate release stages
-
-## Contact
-
-- Collaboration and product ideas: open an issue in [frontend](https://github.com/arbijuie/frontend/issues)
-- Organization profile repository: [arbijuie/.github](https://github.com/arbijuie/.github)
+- Product and integration ideas: [open an issue](https://github.com/arbijuie/frontend/issues)
+- Organization profile repo: [arbijuie/.github](https://github.com/arbijuie/.github)
