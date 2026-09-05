@@ -33,4 +33,3 @@ Core strategy and execution repositories are intentionally private during reliab
 ## Investor and Partner Contact
 
 - Share interest, partnership ideas, or strategic context via [frontend issues](https://github.com/arbijuie/frontend/issues)
-- Organization profile repository: [arbijuie/.github](https://github.com/arbijuie/.github)
