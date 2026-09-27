@@ -1,4 +1,4 @@
-﻿# Arbijuie
+# Arbijuie
 
 Building the execution infrastructure layer for systematic funding-rate arbitrage.
 
@@ -9,8 +9,12 @@ Funding markets are structurally fragmented, operationally noisy, and still unde
 ## What Is Public Today
 
 - [frontend](https://github.com/arbijuie/frontend) - Public product surface for operator workflows, visibility, and integration feedback.
+- [arbitrage](https://github.com/arbijuie/arbitrage) - Organization mirror for repository state, release traceability, and collaboration workflows.
 
-Core strategy and execution repositories are intentionally private during reliability and risk hardening.
+## Public Release Streams
+
+- [Frontend releases](https://github.com/arbijuie/frontend/releases) - Product-facing release timeline and changelog mirror.
+- [Core mirror releases](https://github.com/arbijuie/arbitrage/releases) - Operational and runtime milestones mirrored for organization visibility.
 
 ## Why This Can Compound
 
@@ -23,12 +27,13 @@ Core strategy and execution repositories are intentionally private during reliab
 - Reliability before scale
 - Risk controls before automation depth
 - Measured rollout with audit-friendly changes
+- Transparent release communication through public mirrors
 
 ## Current Stage
 
 - Soft-public phase through the frontend surface
-- Private core hardening in progress
-- Future public expansion based on release-gated readiness
+- Core hardening with release-backed visibility
+- Gradual expansion based on reliability and risk-readiness gates
 
 ## Investor and Partner Contact
 
