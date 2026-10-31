@@ -1,40 +1,41 @@
 # Arbijuie
 
-Building the execution infrastructure layer for systematic funding-rate arbitrage.
+Risk-first tooling for cross-exchange perps funding arbitrage — clear operator workflows, controlled decisions, and measured rollout.
 
-## Investment Thesis
+## What You Can See Publicly
 
-Funding markets are structurally fragmented, operationally noisy, and still underserved by risk-first execution tooling. We focus on converting market inefficiency into repeatable, controlled decision flows.
+- **[frontend](https://github.com/arbijuie/frontend)** — public product surface for deals, health, operations, and operator feedback  
+  Live demo: [141-148-244-93.sslip.io](https://141-148-244-93.sslip.io)
+- **[arbitrage](https://github.com/arbijuie/arbitrage)** — private organization mirror for collaboration, release traceability, and internal workflows (not an open-source dump of the full stack)
 
-## What Is Public Today
+## Latest Public Milestone
 
-- [frontend](https://github.com/arbijuie/frontend) - Public product surface for operator workflows, visibility, and integration feedback.
-- [arbitrage](https://github.com/arbijuie/arbitrage) - Organization mirror for repository state, release traceability, and collaboration workflows.
+[`frontend` release `v2026.10.31`](https://github.com/arbijuie/frontend/releases/tag/v2026.10.31) — clearer **Deals → sheet → Positions** flow, fail-closed opens, Health and Operations pages, VOOI broker surface, and Telegram alerts.
+
+Live trading with real money stays **off by default**. This milestone is about clarity and safety, not flipping the live switch.
 
 ## Public Release Streams
 
-- [Frontend releases](https://github.com/arbijuie/frontend/releases) - Product-facing release timeline and changelog mirror.
-- [Core mirror releases](https://github.com/arbijuie/arbitrage/releases) - Operational and runtime milestones mirrored for organization visibility.
+- [Frontend releases](https://github.com/arbijuie/frontend/releases) — product-facing timeline and changelog
+- [Core mirror releases](https://github.com/arbijuie/arbitrage/releases) — operational milestones mirrored for organization visibility
 
-## Why This Can Compound
+## Why This Matters
 
-- Persistent inefficiency in cross-venue funding markets
-- Operational moat from disciplined risk controls and release quality
-- Architecture designed for staged expansion across venues and workflows
+Funding markets are fragmented and operationally noisy. Most tooling underinvests in risk-first execution. We convert that inefficiency into repeatable, controlled decision flows — reliability and controls before scale.
 
 ## Execution Principles
 
 - Reliability before scale
 - Risk controls before automation depth
 - Measured rollout with audit-friendly changes
-- Transparent release communication through public mirrors
+- Transparent communication through public mirrors
 
 ## Current Stage
 
 - Soft-public phase through the frontend surface
-- Core hardening with release-backed visibility
-- Gradual expansion based on reliability and risk-readiness gates
+- October UX + hardening published (`v2026.10.31`)
+- Next gates remain explicit: VOOI canary readiness and distribution / go-live sign-off — not claimed as done
 
-## Investor and Partner Contact
+## Contact
 
-- Share interest, partnership ideas, or strategic context via [frontend issues](https://github.com/arbijuie/frontend/issues)
+Share interest, partnership ideas, or strategic context via [frontend issues](https://github.com/arbijuie/frontend/issues).
