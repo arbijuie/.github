@@ -9,6 +9,7 @@ Source of truth for engineering notes: `MarchenkoRuslan/arbitrage` tags (private
 
 | Tag | Public frontend | Notes |
 | --- | --- | --- |
+| `v2026.11.15.01` | [Public Update](https://github.com/arbijuie/frontend/releases/tag/v2026.11.15.01) | Memory-safe calibration streaming, RecordedDataStore Phases 0–3 (flags default off), project cleanup automation. Monorepo tip `60d44574`. Live trading still off by default. |
 | `v2026.11.13.01` | [Public Update](https://github.com/arbijuie/frontend/releases/tag/v2026.11.13.01) | Screener freshness, Telegram-only auth, VOOI MarketState flag, Nautilus removal. Monorepo tip `8478933`. Live trading still off by default. |
 | `v2026.10.31` | [Public Update](https://github.com/arbijuie/frontend/releases/tag/v2026.10.31) | Trader UX, fail-closed execution, VOOI broker surface, Telegram alerts |
 

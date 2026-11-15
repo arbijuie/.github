@@ -10,9 +10,9 @@ Risk-first tooling for cross-exchange perps funding arbitrage — clear operator
 
 ## Latest Public Milestone
 
-[`frontend` release `v2026.11.13.01`](https://github.com/arbijuie/frontend/releases/tag/v2026.11.13.01) — screener freshness / Ready-path honesty, Telegram-only operator auth, VOOI MarketState writers behind a flag, and Nautilus migration removal.
+[`frontend` release `v2026.11.15.01`](https://github.com/arbijuie/frontend/releases/tag/v2026.11.15.01) — memory-safe stop/artifact calibration (no full ~1.9M snapshot load), RecordedDataStore Phases 0–3 behind flags default off, and project-board cleanup automation.
 
-Live trading with real money stays **off by default**. This milestone is about data honesty and safety, not flipping the live switch.
+Live trading with real money stays **off by default**. This milestone is about collector stability and storage readiness, not flipping the live switch.
 
 ## Public Release Streams
 
@@ -41,8 +41,8 @@ Funding markets are fragmented and operationally noisy. Most tooling underinvest
 ## Current Stage
 
 - Soft-public phase through the frontend surface
-- November readiness cut published (`v2026.11.13.01`)
-- Next gates remain explicit: VOOI execution canary and distribution / go-live sign-off — not claimed as done
+- Mid-November cut published (`v2026.11.15.01`)
+- Next gates remain explicit: RecordedDataStore host parity / Phase 4, VOOI execution canary, and distribution / go-live sign-off — not claimed as done
 
 ## Contact
 
